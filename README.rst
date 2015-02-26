@@ -13,12 +13,12 @@ basil
     :alt: Documentation
  
 Basil is a modular readout framework intended to allow simple and fast data acquisition systems (DAQ) design. 
-It consists of different hardware components, FPGA firmware modulus and a Python based contol software.
+It consists of different hardware components, FPGA firmware module and a Python-based control software.
 
 Documentation
 =============
 
-Documenttion can be found under: http://basil.rtfd.org
+Documentation can be found under: http://basil.rtfd.org
 
 Support
 =======
